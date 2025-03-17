@@ -79,13 +79,11 @@
       <groupId>org.jboss.arquillian.config</groupId>
       <artifactId>arquillian-config-spi</artifactId>
       <version>1.7.0.Alpha12</version>
-     </dependency>
       <dependency>
       <groupId>org.jboss.arquillian.container</groupId>
       <artifactId>arquillian-container-impl-base</artifactId>
       <version>1.7.0.Alpha12</version>
      </dependency>
-     <!-- 
      <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
