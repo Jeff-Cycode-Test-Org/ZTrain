@@ -79,7 +79,7 @@ PAYPAL_BRAINTREE_ACCESS_TOKEN = 'access_token$production$x0lb8affpzmmnufd$3ea7cb
 
 # Twilio
 ## Twilio API Key
-TWILIO_API_KEY = 'SK5d1d319A6Acf7EC9BDeDb8CCe4D76BA8'
+
 TWILIO_ACCOUNT_SID = 'ACXvJ0lkU-BhvkmBkZPUWAxExvPSF6s5En'
 TWILIO_APP_SID = 'APNLX3uzXotXDUKvurSeS95o8O3RpYuuy6'
 
